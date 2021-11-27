@@ -9,6 +9,7 @@ What kinds of research could people do using the information in Hansard as a res
 Hansard has several bills cover a wide range of information so that there are plenty of researches people can do by using the informationin Hansard as resource, including and going beyond all kinds of topics as follows:
 
 1.Medical Research
+
 There are some bills about medical issues, including Down Syndrome, Autism and so on.It not only introduces the background information about the medical issues, but also analyses the causes, symptoms and current prevalence of these diseases.
 
 2.Social Security Research
