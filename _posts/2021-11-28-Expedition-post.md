@@ -1,9 +1,5 @@
 ---
 layout: post
-title: Natural History Museum online exhibit: Fantastic Beasts: The Wonder of Nature
----
----
-layout: post
 title:  Week 8 homework-Answer to Professor Daniel's question
 ---
 ## Question 1
