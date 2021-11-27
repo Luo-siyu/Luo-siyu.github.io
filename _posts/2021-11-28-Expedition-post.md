@@ -6,7 +6,7 @@ title:  Week 8 homework-Answer to Professor Daniel's question
 What kinds of research could people do using the information in Hansard as a resource?
 
 ## Answer
-Hansard has several bills cover a wide range of information so that there are plenty of researches people can do by using the informationin Hansard as resource, including and going beyond all kinds of topics as follows:
+Hansard has several bills cover a wide range of information so that there are plenty of research people can do by using the informationin Hansard as resource, including and going beyond all kinds of topics as follows:
 
 1.Medical Research
 
@@ -15,12 +15,12 @@ There are some bills about medical issues, including Down Syndrome, Autism and s
 
 2.Social Security Research
 
-There are plenty of bills about employment and trade union rights,health incentives schemes,animal welfare(kept animals),up-rating of benefits and so on.If our topic focus on social security, this site will be able to provide a lot of material.
+There are a lot of bills about employment and trade union rights,health incentives schemes,animal welfare(kept animals),up-rating of benefits and so on.If our topic focus on social security, this site will be able to provide a lot of material.
 
 
 3.Epidemiological impact Research
 
-Hansard has plenty of bills including the influence of epidemic on all aspects of society,such as education,economics,medicine and so on.For instance,Commercial Rent(coronavirus) bill describe the impact of covid on the economy.
+Hansard has several bills including the influence of epidemic on all aspects of society,such as education,economics,medicine and so on.For instance,Commercial Rent(coronavirus) bill describe the impact of covid on the economy.
 
 ## Question 2
 How well does the Hansard website facilitate those kinds of research?
