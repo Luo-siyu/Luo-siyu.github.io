@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Natural History Museum online exhibit: Fantastic Beasts: The Wonder of Nature
----
+title:  Natural History Museum online exhibit: Fantastic Beasts: The Wonder of Nature
+------
 ## Background
 "Fantastic Beasts: The Wonder of Nature" is one of the Natural History Museum.The Museum's conservation team treated more than 100 specimens, including a Caspian tiger, a Chinese alligator, an American manatee, a giant oarfish and a young giraffe.In "Fantastic Beasts: The Wonder of Nature", we can discover where the real world and Wizarding World intertwine, and how the wonders of the natural world have inspired myths, legends and magical creatures for generations.
 
