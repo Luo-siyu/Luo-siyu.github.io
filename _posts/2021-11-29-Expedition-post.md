@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Week 8 homework-Answers to Professor Daniel's questions
+title:  Week 7 homework-Answers to Professor Daniel's questions
 ---
 ## Question 1
 What kinds of research could people do using the information in Hansard as a resource?
