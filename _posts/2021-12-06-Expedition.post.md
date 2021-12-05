@@ -5,8 +5,7 @@ title:  Week 8 homework-Answers to Professor Daniel's questions
 ## Question 1
 How is the site organised?
 ## Answer
-If we click into the poetry archive, we'll find it
-is a rich site with several kinds content including the search function, choice of support, Children's Poetry Archive,sources of teaching, glossary, etc.We can choose the columns we need on this website according to our own desires.
+If we click into the poetry archive, we'll find it is a rich site with several kinds content including the search function, choice of support, Children's Poetry Archive,sources of teaching, glossary, etc.We can choose the columns we need on this website according to our own desires.
 
 ## Question 2
 What kinds of content are featured on the site?
@@ -20,6 +19,10 @@ The search function is the key for users to discover content.There are two ways 
 
 ## Question 4
 What does the site do to facilitate appreciation of poetry?
+## Answer
+The form of audio and video can make users feel more involved and easier to get into the artistic conception provided by the poem. In addition, the interview with the poem author can make readers better understand the creation background and inspiration of the poem, so as to better understand the feelings conveyed by the poem and make the poem appreciation enter into a deeper level
 
 ## Question 5
 What does the site do to facilitate research on poetry?
+## Answer
+To begin with, there are plenty of poetry can be the source of research so that people could select the appropriate one to be the research sample to analyze. Additionally, watching video interviews with poets as they questions about their inspirations and influences on the site is meaningful for pushing the research to a deeper level.Both of the two points are useful for facilitating research on poetry. 
